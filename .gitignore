@@ -107,3 +107,9 @@ desktop.ini
 .cache/
 tmp/
 temp/
+
+# ===== Bot runtime =====
+runtime/
+.vkbottle/
+.venv313/
+
